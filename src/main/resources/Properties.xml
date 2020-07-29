@@ -1,0 +1,9 @@
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>This is a comment</comment>
+    <entry key="host">localhost</entry>
+    <entry key="port">3306</entry>
+    <entry key="database">JCBD</entry>
+    <entry key="dbuser">root</entry>
+    <entry key="dbpass">root</entry>
+</properties>
